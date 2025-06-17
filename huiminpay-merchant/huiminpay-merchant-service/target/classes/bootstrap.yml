@@ -1,0 +1,54 @@
+server:
+  port: 56040                                   #Startup port Command line inject
+nacos:
+  server:
+    addr: 127.0.0.1:8848
+
+spring:
+  application:
+    name: merchant-service		              #Main Configuration File Name
+  main:
+    allow-bean-definition-overriding: true  # Spring Boot 2.1 Required Settings
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${nacos.server.addr}
+        namespace: 4c1a70b9-a903-4b68-b1bf-57d8719504af       # dev namespace id
+        cluster-name: DEFAULT
+      config:
+        server-addr: ${nacos.server.addr} # Configuration Center Address
+        file-extension: yaml
+        namespace: 4c1a70b9-a903-4b68-b1bf-57d8719504af        # dev namespace id
+        group: HUIMINPAY_GROUP # Aggregate Payments Practice Group
+        ext-config:
+          -
+            refresh: true
+            data-id: spring-boot-http.yaml                  # spring boot http Configuration
+            group: COMMON_GROUP # Common Configuration Group
+          -
+            refresh: true
+            data-id: spring-boot-starter-druid.yaml         # spring boot starter druid Configuration
+            group: COMMON_GROUP # Common Configuration Group
+          -
+            refresh: true
+            data-id: spring-boot-mybatis-plus.yaml          # spring boot mybatisplus Configuration
+            group: COMMON_GROUP # Common Configuration Group
+dubbo:
+  scan:
+    # dubbo Service Scanning Baseline Package
+    base-packages: com.huiminpay
+  protocol:
+    # dubbo protocols
+    name: dubbo
+    port: 20890
+  registry:
+    address: nacos://127.0.0.1:8848
+  application:
+    qos:
+      port: 22240 # dubbo qosPort Configuration Command Line Injection
+  consumer:
+    check: false
+    timeout: 90000
+    retries: -1
+logging:
+  config: classpath:log4j2.xml

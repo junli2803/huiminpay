@@ -1,0 +1,57 @@
+server:
+  port: 57010                             #startup port (can be injected via command line)
+  max‐http‐header‐size: 100KB
+nacos:
+  server:
+    addr: 127.0.0.1:8848                  #nacos server ip port
+spring:
+  application:
+    name: merchant-application            #application name
+  main:
+    allow‐bean‐definition‐overriding: true    #required for Spring Boot 2.1
+  cloud:
+    nacos:
+      discovery:
+        server‐addr: ${nacos.server.addr}
+        namespace: 4c1a70b9-a903-4b68-b1bf-57d8719504af   #dev environment namespace ID
+        cluster‐name: DEFAULT
+      config:
+        server‐addr: ${nacos.server.addr} # config center address
+        file‐extension: yaml
+        namespace: 4c1a70b9-a903-4b68-b1bf-57d8719504af    # dev environment namespace ID
+        group: HUIMINPAY_GROUP # unified payment business group
+        ext‐config:
+          - refresh: true
+            data-id: spring-boot-http.yaml # spring boot HTTP config
+            group: COMMON_GROUP # common config group
+  #SpringMVC file upload configuration
+  servlet:
+    multipart:
+      #file upload enabled by default
+      enabled: true
+      # support file write to disk. file‐size‐threshold: 0
+      # temporary upload directory
+      location:
+      # maximum supported file size
+      max‐file‐size: 1MB
+      # maximum supported request size
+      max‐request‐size: 30MB
+
+dubbo:
+  scan:
+    # dubbo dubbo service scan base package
+    base‐packages: com.huiminpay
+  protocol:
+    name: dubbo
+    port: 20891
+  registry:
+    address: nacos://127.0.0.1:8848
+  application:
+    qos:
+      port: 22310 # dubbo QoS port configuration (can be injected via command line)
+  consumer:
+    check: false
+    timeout: 3000
+    retries: -1
+logging:
+  config: classpath:log4j2.xml
