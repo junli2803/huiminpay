@@ -1,0 +1,6 @@
+com\huiminpay\merchant\config\WebMvcConfig.class
+com\huiminpay\merchant\MerchantApplicationBootstrap.class
+com\huiminpay\merchant\service\impl\SmsServiceImpl.class
+com\huiminpay\merchant\service\SmsService.class
+com\huiminpay\merchant\web\MerchantController.class
+com\huiminpay\merchant\config\SwaggerConfiguration.class

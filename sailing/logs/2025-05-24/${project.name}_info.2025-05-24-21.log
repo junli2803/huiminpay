@@ -1,6 +1,0 @@
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:11:44,901 INFO [http-nio-56085-exec-6][QCloudSmsService.java:55] - 给手机号：16688880113 发送验证码：015441
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:17:36,488 INFO [http-nio-56085-exec-3][QCloudSmsService.java:55] - 给手机号：16688880117 发送验证码：117250
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:23:27,559 INFO [http-nio-56085-exec-10][QCloudSmsService.java:55] - 给手机号：16688880116 发送验证码：590936
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:33:00,451 INFO [http-nio-56085-exec-5][QCloudSmsService.java:55] - 给手机号：16688880115 发送验证码：898690
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:51:36,564 INFO [http-nio-56085-exec-3][QCloudSmsService.java:55] - 给手机号：16688880667 发送验证码：211404
-[${project.name}][${env:SERVER_PORT}] 2025-05-24 21:53:15,323 INFO [http-nio-56085-exec-10][QCloudSmsService.java:55] - 给手机号：16688886667 发送验证码：992238

@@ -7,6 +7,7 @@
         <module>huiminpay-common</module>
         <module>huiminpay-merchant-application</module>
         <module>huiminpay-merchant</module>
+        <module>sailing</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
