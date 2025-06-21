@@ -1,0 +1,2 @@
+[${project.name}][${env:SERVER_PORT}] 2025-06-09 15:02:56,597 INFO [http-nio-56085-exec-9][QCloudSmsService.java:55] - 给手机号：15770899889680 发送验证码：502133
+[${project.name}][${env:SERVER_PORT}] 2025-06-09 15:12:17,386 INFO [http-nio-56085-exec-6][QCloudSmsService.java:55] - 给手机号：15770899889681 发送验证码：446288
