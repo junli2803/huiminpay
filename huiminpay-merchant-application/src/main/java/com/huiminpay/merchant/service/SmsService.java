@@ -1,5 +1,5 @@
 package com.huiminpay.merchant.service;
 
 public interface SmsService {
-    public String sendSms(String phone);
+    String createVerifizierungsCode(String phone);
 }

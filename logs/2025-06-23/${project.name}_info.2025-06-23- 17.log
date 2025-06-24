@@ -1,0 +1,52 @@
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:00:02,538 WARN
+            [dubbo-client-idleCheck-thread-1][ReconnectTimerTask.java:55] -  [DUBBO] Reconnect to channel HeaderExchangeClient [channel=org.apache.dubbo.remoting.transport.netty4.NettyClient [/192.168.2.115:51487 -> /192.168.2.115:20891]], because heartbeat read idle time out: 180000ms, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:00:09,802 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x3229f24b, L:/192.168.2.115:51487 - R:/192.168.2.115:20891]], dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:00:20,474 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:00:50,483 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:01:03,528 WARN
+            [dubbo-client-idleCheck-thread-1][ReconnectTimerTask.java:55] -  [DUBBO] Reconnect to channel HeaderExchangeClient [channel=org.apache.dubbo.remoting.transport.netty4.NettyClient [/192.168.2.115:51487 -> /192.168.2.115:20891]], because heartbeat read idle time out: 180000ms, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:01:09,812 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x3229f24b, L:/192.168.2.115:51487 - R:/192.168.2.115:20891]], dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:01:20,493 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:01:50,503 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:02:04,525 WARN
+            [dubbo-client-idleCheck-thread-1][ReconnectTimerTask.java:55] -  [DUBBO] Reconnect to channel HeaderExchangeClient [channel=org.apache.dubbo.remoting.transport.netty4.NettyClient [/192.168.2.115:51487 -> /192.168.2.115:20891]], because heartbeat read idle time out: 180000ms, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:02:09,816 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x3229f24b, L:/192.168.2.115:51487 - R:/192.168.2.115:20891]], dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:02:20,515 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:02:50,524 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:03:05,524 WARN
+            [dubbo-client-idleCheck-thread-1][ReconnectTimerTask.java:55] -  [DUBBO] Reconnect to channel HeaderExchangeClient [channel=org.apache.dubbo.remoting.transport.netty4.NettyClient [/192.168.2.115:51487 -> /192.168.2.115:20891]], because heartbeat read idle time out: 180000ms, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:03:09,827 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x3229f24b, L:/192.168.2.115:51487 - R:/192.168.2.115:20891]], dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:03:20,543 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:03:50,555 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:2) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:06,524 WARN
+            [dubbo-client-idleCheck-thread-1][ReconnectTimerTask.java:55] -  [DUBBO] Reconnect to channel HeaderExchangeClient [channel=org.apache.dubbo.remoting.transport.netty4.NettyClient [/192.168.2.115:51487 -> /192.168.2.115:20891]], because heartbeat read idle time out: 180000ms, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:09,836 DEBUG
+            [NettyClientWorker-1-3][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x3229f24b, L:/192.168.2.115:51487 - R:/192.168.2.115:20891]], dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,149 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,152 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,154 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,155 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,156 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,156 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,156 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
+[${project.name}][${env:SERVER_PORT}] 2025-06-23 18:04:19,157 DEBUG
+            [NettyClientWorker-1-3][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-1-3, dubbo version: 2.7.3, current host: 192.168.2.115
