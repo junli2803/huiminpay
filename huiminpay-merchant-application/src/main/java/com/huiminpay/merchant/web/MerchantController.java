@@ -10,10 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class MerchantController {
     @Autowired
     SmsService smsService;
-    @GetMapping("/f")
-    public String f(@RequestParam String phone){
 
-       return smsService.createVerifizierungsCode(phone);
+    @GetMapping("/sms")
+    public String getMsgCode(@RequestParam String phone) {
+
+        return smsService.createVerifizierungsCode(phone);
     }
 }
 
