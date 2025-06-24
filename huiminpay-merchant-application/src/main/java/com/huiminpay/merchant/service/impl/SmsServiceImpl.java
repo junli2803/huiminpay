@@ -28,7 +28,7 @@ public class SmsServiceImpl implements SmsService {
 
     // Implements the method to create a verification code by sending a request to the SMS service
     @Override
-    public String createVerifizierungsCode(String phone) {
+    public String createVerificationsCode(String phone) {
         // Constructs the complete URL for the "generate" endpoint with query parameters
         String url = sms_url + "/generate?name=sms&effectiveTime=" + effectiveTime;
 
@@ -65,9 +65,4 @@ public class SmsServiceImpl implements SmsService {
         // Returns the verification key to the caller
         return key;
     }
-
-
-
-
-
 }

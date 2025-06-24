@@ -14,7 +14,7 @@ public class MerchantController {
     @GetMapping("/sms")
     public String getMsgCode(@RequestParam String phone) {
 
-        return smsService.createVerifizierungsCode(phone);
+        return smsService.createVerificationsCode(phone);
     }
 }
 
