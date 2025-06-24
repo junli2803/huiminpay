@@ -18,3 +18,55 @@
             [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
 [${project.name}][${env:SERVER_PORT}] 2025-06-24 06:04:44,582 WARN
             [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:05:14,592 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:05:44,603 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:06:14,609 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:06:44,614 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:07:14,633 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:07:44,642 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:08:14,650 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:08:44,657 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:09:14,667 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:09:44,673 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:10:14,696 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:10:44,713 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:11:14,732 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:11:44,740 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:12:14,747 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:12:44,761 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:13:14,779 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:13:44,796 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:14:14,806 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:14:44,827 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:15:14,843 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:15:44,859 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:16:14,876 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:16:44,881 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:17:14,893 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2025-06-24 06:17:44,907 WARN
+            [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:1) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services

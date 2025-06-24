@@ -59,10 +59,15 @@ public class SmsServiceImpl implements SmsService {
             key = result.get("key").toString();
         } else {
             // Throws an exception if the response does not contain the expected data
-            throw new RuntimeException("Query Exception (查询异常11)");
+            throw new RuntimeException("Query Exception");
         }
 
         // Returns the verification key to the caller
         return key;
     }
+
+
+
+
+
 }
